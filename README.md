@@ -1,4 +1,4 @@
-![sajith_page-0001](https://github.com/user-attachments/assets/f6aa3946-c720-4f18-9b42-bdf46256ec08)# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
